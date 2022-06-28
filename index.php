@@ -32,7 +32,7 @@
 
     <div class="login-wrapper wd-300 wd-xs-350 pd-25 pd-xs-40 bg-white rounded shadow-base">
       <div class="signin-logo tx-center tx-28 tx-bold tx-inverse"><span class="tx-normal">[</span> Empresa <span class="tx-normal">]</span></div>
-      <div class="tx-center mg-b-60">Sistema De Certificados y Diplomas</div>
+      <div class="tx-center mg-b-30">Sistema De Certificados y Diplomas</div>
 
       <div class="form-group">
         <input type="text" class="form-control" placeholder="Ingrese EMail">
